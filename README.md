@@ -35,7 +35,7 @@ Cloner le dépôt :
 
 ```bash
 git clone <URL_DU_REPO>
-cd demand-forecasting-app
+cd project_demand_forecasting
 ```
 
 Créer l'environnement virtuel et installer les dépendances :
